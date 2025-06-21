@@ -35,7 +35,7 @@ A **modern, secure, and beautiful** Flutter app with login and profile view func
 |--------------|----------------|
 | ![Login Screen](https://github.com/user-attachments/assets/920a5a29-9c84-4775-bc27-92dc4fe77831) | ![Profile Screen](https://github.com/user-attachments/assets/d95e4683-dca5-4567-a80a-4cdea7140faf) |
 
-> Replace `user-attachments` with your actual repo slug if necessary or use local `screenshots/login.png`.
+
 
 ---
 
@@ -48,3 +48,15 @@ A **modern, secure, and beautiful** Flutter app with login and profile view func
 | Dio                     | HTTP networking & interceptors         |
 | Flutter Secure Storage  | Encrypted token storage                |
 | Material Design         | UI/UX styling                          |
+
+---
+
+## 🧪 Test Credentials
+
+Use the following credentials to log in:
+
+```json
+{
+  "email": "john@mail.com",
+  "password": "changeme"
+}
