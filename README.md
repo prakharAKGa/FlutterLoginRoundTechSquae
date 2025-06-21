@@ -19,14 +19,13 @@ A **modern, secure, and beautiful** Flutter app with login and profile view func
 
 ## ✨ Features
 
-- 🎨 Beautiful, modern UI with gradients and dark mode
-- 🔐 Login screen with email and password authentication
-- ✅ Validates credentials and retrieves a secure token from an API
-- 💾 Securely stores token using `flutter_secure_storage`
-- 👤 Navigates to a Profile screen with user information
-- 💥 Handles API errors gracefully using Dio interceptors and GetX
-- ⚙️ Uses clean architecture with GetX bindings and controllers
-
+- 🎨 Beautiful, modern UI with gradients and dark mode  
+- 🔐 Login screen with email and password authentication  
+- ✅ Validates credentials and retrieves a secure token from an API  
+- 💾 Securely stores token using `flutter_secure_storage`  
+- 👤 Navigates to a Profile screen with user information  
+- 💥 Handles API errors gracefully using Dio interceptors and GetX  
+- ⚙️ Uses clean architecture with GetX bindings and controllers  
 
 ---
 
@@ -34,25 +33,18 @@ A **modern, secure, and beautiful** Flutter app with login and profile view func
 
 | Login Screen | Profile Screen |
 |--------------|----------------|
-| ![Login Screen](![WhatsApp Image 2025-06-21 at 5 38 16 PM](https://github.com/user-attachments/assets/920a5a29-9c84-4775-bc27-92dc4fe77831)
-) | ![Profile Screen](![WhatsApp Image 2025-06-21 at 5 38 16 PM (1)](https://github.com/user-attachments/assets/d95e4683-dca5-4567-a80a-4cdea7140faf)
-) |
+| ![Login Screen](https://github.com/user-attachments/assets/920a5a29-9c84-4775-bc27-92dc4fe77831) | ![Profile Screen](https://github.com/user-attachments/assets/d95e4683-dca5-4567-a80a-4cdea7140faf) |
 
-> Replace with your own screenshots and place them in a `/screenshots` folder.
+> Replace `user-attachments` with your actual repo slug if necessary or use local `screenshots/login.png`.
 
 ---
 
 ## 📦 Tech Stack
 
-| Technology             | Usage                                      |
-|------------------------|--------------------------------------------|
-| Flutter                | App development framework                  |
-| GetX                  | State management, navigation, DI           |
-| Dio                   | HTTP networking & interceptors             |
-| Flutter Secure Storage | Encrypted token storage                    |
-| Material Design        | UI/UX styling                             |
-
----
-
-
-
+| Technology              | Usage                                  |
+|-------------------------|----------------------------------------|
+| Flutter                 | App development framework              |
+| GetX                    | State management, navigation, DI       |
+| Dio                     | HTTP networking & interceptors         |
+| Flutter Secure Storage  | Encrypted token storage                |
+| Material Design         | UI/UX styling                          |
